@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "4737B2A2BAD7E6393DAAC53A30CD48C0",
+  "keywordClasses": [
+    {
+      "name": "common.other",
+      "keywordMethods": [
+        {
+          "name": "takeScreenshot",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}
